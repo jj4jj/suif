@@ -1,2 +1,2 @@
-a simple ui framwork for my study
+a simple ui framework for my study
 ----
